@@ -1,5 +1,7 @@
 # Equip Best Item
 
+Important Notice: This repositiory is archived. Please go to the [maintained repository](https://github.com/shadowhen89/EquipBestItem) for the updated Equip Best Item.
+
 This is a Mount & Blade II: Bannerlord mod.
 
 ## Table of Contents
